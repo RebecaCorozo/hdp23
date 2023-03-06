@@ -1,0 +1,15 @@
+
+
+table, th, td {
+    border: 1px solid black;
+    width: 50%;
+  }
+  img{
+    padding: 100px;
+    height: 50%;
+    width: 50%;
+   /* object-fit: cover;*/
+  }
+
+
+ 
